@@ -1,0 +1,30 @@
+{
+	"name":"Shashi prakash",
+	"profession":"FULL STACK WEB DEVELOPER",
+	"description":"I am  a Full Stack Developer Looking for job. ",
+	"highlights":"PERSONAL HIGHLIGHTS", 
+	"highlightscontent":["Cheerful","Neat and well-organized","Self-Motivated","Independent-worker","Works well with deadlines","Collaborative and efficient"],
+	"detail":"CONTACT DETAILS",
+	"contactdetails":{
+		"address":"flora comforts pg ,7th main, 18th cross road ,btm 2nd stage",
+		"city": "bengaluru",
+		"country":"India"},
+	"email":"shashiprakashsunny@gmail.com",
+	"tel":"9903296599",
+	"basic":"BASIC INFORMATION",
+	"basicinformation":"I am a Fresher and ready to secure a challenging position where I can effectively contribute my skills as software professional.",
+	"edutitle":"EDUCATION",
+	"education": {
+		"school1":"Techno india college of technology,kolkata",
+		"batch":"2017",
+		"degree1":"electrical engineering",
+        "association":"MAKAUT",
+        "Cgpa":"6.10 DGPA",
+		"location":"BENGALURU",
+		"school2":"L.C. COLLEGE,PASTWAR,SAHARSA",
+		"degree2":"12th",
+        "board":"B.S.E.B",
+        "percentage":"73.4",
+		"location3":"SAHARSA"
+	}
+}
